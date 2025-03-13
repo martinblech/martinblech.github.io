@@ -1,0 +1,14 @@
+{
+  "short_name": "Martín Blech",
+  "name": "",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fcfcfd",
+  "theme_color": "#fcfcfd"
+}
